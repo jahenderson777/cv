@@ -1,7 +1,6 @@
 ---
-title: CV
+title: Alex Jonathan Henderson
 ---
-# Alex Jonathan Henderson
 
 <div id="webaddress">
 <a href="jahenderson777@gmail.com">jahenderson777@gmail.com</a>
