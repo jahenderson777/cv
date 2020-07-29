@@ -66,8 +66,7 @@ __Riverford Organic Farmers Ltd.__, Developer & Support Engineer
 
 Lead in-house developer and key player in Riverford's Microsoft Dynamics AX ERP implementation. Working closely with project managers, business stakeholders, hosting company and Microsoft partner K3. 
 
-Support engineer and Service Delivery Lead for Riverford's main public facing website. 
-Developer of numerous applications and changes using a variety of different technologies (predominantly .NET and MSSQL).
+Service Delivery Lead for Riverford's main public facing website. Developer of numerous applications and changes using a variety of different technologies (predominantly .NET and MSSQL).
 
 Technical architect, engineer and inspiration behind the SPUDNIK “space” mission. Working with a local primary school to send a Riverford potato 25km into the stratosphere on-board a weather balloon (received international media attention)
 
