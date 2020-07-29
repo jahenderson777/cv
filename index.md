@@ -1,12 +1,10 @@
----
-title: Alex Jonathan Henderson
----
+# Alex Jonathan Henderson's CV
 
 <div id="webaddress">
 <a href="jahenderson777@gmail.com">jahenderson777@gmail.com</a>
 </div>
 
-### In a nutshell
+## In a nutshell
 
 Full stack Clojure programmer with a passion for function programming and creative problem solving.
 
@@ -16,14 +14,14 @@ Key player in cutting edge engineering teams, developing mobile apps, web apps, 
 
 Developer of numerous solo R & D projects that have shaped business direction, increased business agility and basically shown business leaders what can be done with modern tools.
 
-### Programming journey
+## Programming journey
 
 Learning C++ as a teenager, to classical OOP with Java, .NET, PHP & Javascript, Microsoft Dynamics AX. 
 
 Finding and falling in love with Lisp in 2015 and working since then predominantly with Clojure & ClojureScript both professionally and for personal projects.
 
 
-### Employment Timeline
+## Employment Timeline
 
 `2015 - 2020`
 __Riverford Organic Farmers Ltd.__, Senior Software Engineer
@@ -86,7 +84,7 @@ Providing IT support, services and website/application development for many busi
 
 Development of a lightweight PHP CMS system.
 
-### Noteable Training
+## Noteable Training
 
 2018 - 1 week computer security 'boot camp' (organised in-house)
 
@@ -95,7 +93,7 @@ Development of a lightweight PHP CMS system.
 2009 – Microsoft Ax Developer training, Intermediate and Advanced course (Firebrand)
 
 
-### Education
+## Education
 
 `2001 - 2003`
 __Southampton University__
@@ -107,7 +105,7 @@ Physics – A, Maths – B, Electronics – B, Computing – C
 `GCSEs`
 Maths – A, Double Science – A, English Literature – A, English Language – B, Geography – A, Business Studies – B, Technology: Systems and Control (electronics and engineering) – A
 
-### Hobbies / outside work activities
+## Hobbies / outside work activities
 
 Road cycling, making strange music, electronics (arduino, raspberry pi, ESP8266), philosophy, theology, number theory, poetry, personal programming projects (OpenGL, Algorithmic music, Educational games), parent governor at local primary school.
 
