@@ -11,7 +11,7 @@ title: Alex Jonathan Henderson's CV
 
 Full stack Clojure programmer with a passion for function programming and creative problem solving.
 
-Confident polyglot with 20+ years wide ranging industry experience. 
+Confident polyglot with 15+ years wide ranging industry experience. 
 
 Key player in cutting edge engineering teams, developing mobile apps, web apps, services & software used by tens of thousands in critical environments. 
 
