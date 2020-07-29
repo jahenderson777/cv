@@ -29,7 +29,7 @@ Finding and falling in love with Lisp in 2015 and working since then predominant
 `2015 - 2020`
 __Riverford Organic Farmers Ltd.__, Senior Software Engineer
 
-Co-developer of Riverford’s mobile app, used by 20+ thousand of customer to manage complex subscription orders (ClojureScript, React Native, GraphQL).
+Co-developer of Riverford’s mobile app, used by 20K+ customers to manage complex subscription orders (ClojureScript, React Native, GraphQL).
 
 Senior member & key player in dynamic team of 10 engineers, following Agile inspired principles, automated testing & GitLab CI pipelines.
 
@@ -37,9 +37,9 @@ Main instigator in Riverford's conversion to Clojure and full in-house developme
 
 Sole developer & inspiration of the following software:
 - 'RX system' - power tool for procurement teams to finally get the view on stock that they needed to gain competive advantage (Clojure API to legacy ERP, ClojureScript frontend with Re-Frame)
-- QR code stock transfer system - Custom Android app (ClojureScript, React Native) for warehouse stock transfers & stock exploration.
-- Animated real-time visualisations of conveyor picking systems (ClojureScript).
-- Bespoke delivery round optimization algorithms & visualisation (Clojure/ClojureScript).
+- QR code stock transfer system - Custom Android app for warehouse stock transfers & stock exploration  (ClojureScript, React Native)
+- Animated real-time visualisations of conveyor picking systems (ClojureScript)
+- Bespoke delivery round optimization algorithms & visualisation (Clojure/ClojureScript)
 - Weigh scale R & D project - In-house built digital weigh scales using Raspberry Pi interfaced with legacy ERP (Python/PyQT)
 
 `2015`
