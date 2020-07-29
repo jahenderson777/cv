@@ -109,7 +109,7 @@ Computer Engineering (Meng) – 2 years study, incomplete. Modules covered: Engi
 Physics – A, Maths – B, Electronics – B, Computing – C
 
 `GCSEs`
-Maths – A, Double Science – A, English Literature – A, English Language – B, Geography – A, Business Studies – B, Technology: Systems and Control (electronics and engineering) – A
+Maths – A, Double Science – A, English Literature – A, English Language – B, Geography – A, Technology: Systems and Control (electronics and engineering) – A, Business Studies – B
 
 ## Hobbies / outside work activities
 
