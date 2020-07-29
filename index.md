@@ -1,4 +1,3 @@
-# Alex Jonathan Henderson's CV
 
 <div id="webaddress">
 <a href="jahenderson777@gmail.com">jahenderson777@gmail.com</a>
