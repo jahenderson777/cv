@@ -29,7 +29,7 @@ Finding and falling in love with Lisp in 2015 and working since then predominant
 `2015 - 2020`
 __Riverford Organic Farmers Ltd.__, Senior Software Engineer
 
-Co-developer of Riverford’s mobile app, built from the ground up with ClojureScript & React Native.
+Co-developer of Riverford’s mobile app, used by 20+ thousand of customer to manage complex subscription orders (ClojureScript, React Native, GraphQL).
 
 Senior member & key player in dynamic team of 10 engineers, following Agile inspired principles, automated testing & GitLab CI pipelines.
 
