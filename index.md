@@ -33,7 +33,7 @@ Co-developer of Riverford’s mobile app, used by 20K+ customers to manage compl
 
 Senior member & key player in dynamic team of 10 engineers, following Agile inspired principles, automated testing & GitLab CI pipelines.
 
-Main instigator in Riverford's conversion to Clojure and full in-house development (starting 2016).
+Energiser of Riverford's conversion to Clojure and full in-house development (starting 2016).
 
 Sole developer & inspiration of the following software:
 - 'RX system' - power tool for procurement teams to finally get the view on stock that they needed to gain competive advantage (Clojure API to legacy ERP, ClojureScript frontend with Re-Frame)
