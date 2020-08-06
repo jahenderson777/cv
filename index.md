@@ -15,7 +15,7 @@ Confident polyglot with 15+ years wide ranging industry experience.
 
 Key player in cutting edge engineering teams, developing mobile apps, web apps, services & software used by tens of thousands in critical environments. 
 
-Developer of numerous solo R & D projects that have shaped business direction, increased business agility and basically shown business leaders what can be done with modern tools.
+Developer of numerous solo R & D projects that have shaped business direction, increased business agility and shown business leaders what can be done with modern tools.
 
 ## Programming journey
 
