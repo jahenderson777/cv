@@ -9,7 +9,7 @@ Address: Devon, UK
 
 ## In a nutshell
 
-Full stack Clojure developer with a passion for function programming and creative problem solving.
+Full stack Clojure developer with a passion for functional programming and creative problem solving.
 
 Confident polyglot with 15+ years wide ranging industry experience. 
 
