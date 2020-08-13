@@ -36,7 +36,7 @@ Senior member & key player in dynamic team of 10 engineers, following Agile insp
 Prime mover in Riverford's conversion to Clojure and full in-house development (starting 2016).
 
 Sole developer & inspiration of the following software:
-- 'RX system' - power tool for procurement teams to finally get the view on stock that they needed to gain competive advantage (Clojure API to legacy ERP, ClojureScript frontend with Re-Frame)
+- 'RX system' - power tool for procurement teams to finally get the view on stock that they needed to gain competitive advantage (Clojure API to legacy ERP, ClojureScript frontend with Re-Frame)
 - QR code stock transfer system - Custom Android app for warehouse stock transfers & stock exploration  (ClojureScript, React Native)
 - Animated real-time visualisations of conveyor picking systems (ClojureScript)
 - Bespoke delivery round optimization algorithms & visualisation (Clojure/ClojureScript)
