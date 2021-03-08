@@ -26,6 +26,13 @@ Finding and falling in love with Lisp in 2015 and working since then predominant
 
 ## Employment Timeline
 
+`10/2020 - 12/2020`
+__WeFarm Ltd.__, Clojure Engineer (full-stack)
+
+Rapid development of Clojure backed web-app, maintenance of numerous Clojure micro-services. Frontend development in ClojureScript and vanilla JS.
+
+Kanban style project flow; fully automated testing and CI.
+
 `2015 - 2020`
 __Riverford Organic Farmers Ltd.__, Senior Software Engineer
 
