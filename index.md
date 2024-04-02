@@ -29,7 +29,7 @@ Finding and falling in love with Lisp in 2015 and working since then predominant
 `03/2022 - 09/2023`
 __Cambridge University Press & Assessment (ELiT)__, Senior Software Engineer
 
-Building web-apps productionizing cutting edge research into using machine learing in the assessment of English Language
+Building web-apps productionizing cutting edge research into using machine learning in the assessment of English Language
 
 Senior Full Stack Clojure/Script engineer
 
